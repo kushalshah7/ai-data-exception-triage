@@ -1,0 +1,3 @@
+exception_id,exception_type,domain,source_system,region,asset_class,missing_field_count,age_days,break_amount,price_movement_pct,duplicate_flag,currency_mismatch_flag,refresh_delay_hours,sla_hours,sla_status,recurrence_count,is_high_value_break
+E1,Stale Price,Pricing,Bloomberg,EMEA,Equity,0,3,1000,14.0,0,0,60,48,Breached,1,0
+E2,Trade Match Break,Trades,Aladdin,Americas,ETF,1,1,50000,1.2,0,0,4,24,Within SLA,1,1

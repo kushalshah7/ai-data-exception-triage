@@ -1,0 +1,81 @@
+query_security_id,query_name,matched_security_id,candidate_name,fuzzy_name_score,match_confidence,exact_ticker_match,currency_match,review_needed
+SEC00271,Northstar Equity 2035,SEC00163,Northstar Equity 2035,100.0,72.0,False,False,True
+SEC00047,Atlas Corporate Bd 2039,SEC00047,Atlas Corporate Bond 2039,95.83,97.0,False,True,False
+SEC00301,Riverstone Equity 2029,SEC00025,Riverstone Equity 2029,100.0,77.0,False,False,True
+SEC00218,Zenith Derivative 2030,SEC00218,Zenith Derivative 2030,100.0,100.0,False,True,False
+SEC00284,Zenith Government Bd 2036,SEC00056,Zenith Government Bond 2036,96.15,69.23,False,False,True
+SEC00018,Atlas Derivative 2034,SEC00018,Atlas Derivative 2034,100.0,100.0,False,True,False
+SEC00133,Blue Harbor Corporate Bd 2029,SEC00133,Blue Harbor Corporate Bond 2029,96.67,97.6,False,True,False
+SEC00172,Atlas Corporate Bd 2032,SEC00076,Atlas Corporate Bond 2032,95.83,69.0,False,False,True
+SEC00045,Blue Harbor Derivative 2037,SEC00045,Blue Harbor Derivative 2037,100.0,100.0,False,True,False
+SEC00302,Riverstone Government Bd 2030,SEC00302,Riverstone Government Bond 2030,96.67,97.6,False,True,False
+SEC00014,Zenith Government Bd 2030,SEC00014,Zenith Government Bond 2030,96.15,100.0,True,True,False
+SEC00013,Blue Harbor Derivative 2029,SEC00013,Blue Harbor Derivative 2029,100.0,100.0,True,True,False
+SEC00006,Riverstone ETF 2034,SEC00006,Riverstone ETF 2034,100.0,100.0,True,True,False
+SEC00112,Riverstone Corporate Bd 2032,SEC00112,Riverstone Corporate Bond 2032,96.55,100.0,True,True,False
+SEC00195,Riverstone Equity 2031,SEC00051,Riverstone Equity 2031,100.0,72.0,False,False,True
+SEC00088,Riverstone Equity 2032,SEC00088,Riverstone Equity 2032,100.0,100.0,True,True,False
+SEC00200,Atlas ETF 2036,SEC00080,Atlas ETF 2036,100.0,72.0,False,False,True
+SEC00314,Zenith Corporate Bd 2030,SEC00170,Zenith Corporate Bond 2030,96.0,69.12,False,False,True
+SEC00160,Northstar Equity 2032,SEC00004,Northstar Equity 2032,100.0,72.0,False,False,True
+SEC00089,Atlas Government Bd 2033,SEC00089,Atlas Government Bond 2033,96.0,100.0,True,True,False
+SEC00129,Northstar Government Bd 2037,SEC00129,Northstar Government Bond 2037,96.55,100.0,True,True,False
+SEC00070,Atlas Corporate Bd 2038,SEC00046,Atlas Corporate Bond 2038,95.83,69.0,False,False,True
+SEC00253,Zenith Corporate Bd 2029,SEC00253,Zenith Corporate Bond 2029,96.0,100.0,True,True,False
+SEC00001,Zenith Government Bd 2029,SEC00001,Zenith Government Bond 2029,96.15,100.0,True,True,False
+SEC00012,Riverstone ETF 2028,SEC00012,Riverstone ETF 2028,100.0,100.0,True,True,False
+SEC00043,Apex Cap Corporate Bd 2035,SEC00219,Apex Capital Corporate Bond 2031,86.21,67.07,False,True,True
+SEC00299,Zenith ETF 2039,SEC00155,Zenith ETF 2039,100.0,77.0,False,True,True
+SEC00096,Zenith Corporate Bd 2028,SEC00096,Zenith Corporate Bond 2028,96.0,100.0,True,True,False
+SEC00084,Blue Harbor Equity 2028,SEC00036,Blue Harbor Equity 2028,100.0,72.0,False,False,True
+SEC00310,Blue Harbor Government Bd 2038,SEC00202,Blue Harbor Government Bond 2038,96.77,79.68,False,True,True
+SEC00280,Zenith Equity 2032,SEC00028,Zenith Equity 2032,100.0,77.0,False,True,True
+SEC00178,Apex Cap Derivative 2038,SEC00022,Apex Capital Derivative 2038,92.31,66.46,False,False,True
+SEC00275,Riverstone Corporate Bd 2039,SEC00107,Riverstone Corporate Bond 2039,96.55,69.52,False,False,True
+SEC00137,Blue Harbor Government Bd 2033,SEC00137,Blue Harbor Government Bond 2033,96.77,100.0,True,True,False
+SEC00221,Apex Cap Government Bd 2033,SEC00221,Apex Capital Government Bond 2033,90.0,100.0,True,True,False
+SEC00154,Northstar Equity 2038,SEC00154,Northstar Equity 2038,100.0,100.0,True,True,False
+SEC00034,Apex Cap Government Bd 2038,SEC00034,Apex Capital Government Bond 2038,90.0,100.0,True,True,False
+SEC00146,Atlas Corporate Bd 2030,SEC00146,Atlas Corporate Bond 2030,95.83,100.0,True,True,False
+SEC00033,Atlas Corporate Bd 2037,SEC00033,Atlas Corporate Bond 2037,95.83,100.0,True,True,False
+SEC00091,Blue Harbor ETF 2035,SEC00091,Blue Harbor ETF 2035,100.0,100.0,True,True,False
+SEC00292,Blue Harbor Derivative 2032,SEC00100,Blue Harbor Derivative 2032,100.0,77.0,False,True,True
+SEC00024,Riverstone ETF 2028,SEC00012,Riverstone ETF 2028,100.0,72.0,False,False,True
+SEC00061,Zenith Government Bd 2029,SEC00001,Zenith Government Bond 2029,96.15,74.23,False,False,True
+SEC00064,Zenith ETF 2032,SEC00064,Zenith ETF 2032,100.0,100.0,True,True,False
+SEC00072,Atlas Derivative 2028,SEC00072,Atlas Derivative 2028,100.0,100.0,True,True,False
+SEC00261,Northstar Derivative 2037,SEC00201,Northstar Derivative 2037,100.0,72.0,False,False,True
+SEC00319,Riverstone Derivative 2035,SEC00103,Riverstone Derivative 2035,100.0,72.0,False,False,True
+SEC00316,Blue Harbor Corporate Bd 2032,SEC00316,Blue Harbor Corporate Bond 2032,96.67,100.0,True,True,False
+SEC00011,Northstar Derivative 2039,SEC00011,Northstar Derivative 2039,100.0,100.0,True,True,False
+SEC00293,Riverstone Equity 2033,SEC00293,Riverstone Equity 2033,100.0,100.0,True,True,False
+SEC00304,Atlas Derivative 2032,SEC00256,Atlas Derivative 2032,100.0,72.0,False,False,True
+SEC00311,Apex Cap Government Bd 2039,SEC00143,Apex Capital Government Bond 2039,90.0,64.8,False,False,True
+SEC00083,Northstar Equity 2039,SEC00059,Northstar Equity 2039,100.0,72.0,False,False,True
+SEC00209,Northstar Government Bd 2033,SEC00125,Northstar Government Bond 2033,96.55,69.52,False,False,True
+SEC00208,Atlas Equity 2032,SEC00208,Atlas Equity 2032,100.0,100.0,True,True,False
+SEC00063,Apex Cap ETF 2031,SEC00003,Apex Capital ETF 2031,89.47,64.42,False,False,True
+SEC00099,Blue Harbor Derivative 2031,SEC00099,Blue Harbor Derivative 2031,100.0,100.0,True,True,False
+SEC00205,Northstar Corporate Bd 2029,SEC00205,Northstar Corporate Bond 2029,96.43,100.0,True,True,False
+SEC00103,Riverstone Derivative 2035,SEC00103,Riverstone Derivative 2035,100.0,100.0,True,True,False
+SEC00175,Zenith Equity 2035,SEC00127,Zenith Equity 2035,100.0,72.0,False,False,True
+SEC00296,Northstar Derivative 2036,SEC00296,Northstar Derivative 2036,100.0,100.0,True,True,False
+SEC00169,Northstar Derivative 2029,SEC00169,Northstar Derivative 2029,100.0,100.0,True,True,False
+SEC00128,Riverstone Equity 2036,SEC00128,Riverstone Equity 2036,100.0,100.0,True,True,False
+SEC00046,Atlas Corporate Bd 2038,SEC00046,Atlas Corporate Bond 2038,95.83,100.0,True,True,False
+SEC00248,Apex Cap Corporate Bd 2036,SEC00248,Apex Capital Corporate Bond 2036,89.66,100.0,True,True,False
+SEC00264,Atlas Derivative 2028,SEC00072,Atlas Derivative 2028,100.0,72.0,False,False,True
+SEC00068,Zenith Equity 2036,SEC00008,Zenith Equity 2036,100.0,77.0,False,False,True
+SEC00317,Northstar ETF 2033,SEC00317,Northstar ETF 2033,100.0,100.0,True,True,False
+SEC00093,Apex Cap Corporate Bd 2037,SEC00219,Apex Capital Corporate Bond 2031,86.21,62.07,False,False,True
+SEC00092,Blue Harbor Government Bd 2036,SEC00092,Blue Harbor Government Bond 2036,96.77,100.0,True,True,False
+SEC00313,Blue Harbor Corporate Bd 2029,SEC00133,Blue Harbor Corporate Bond 2029,96.67,69.6,False,False,True
+SEC00124,Riverstone Equity 2032,SEC00088,Riverstone Equity 2032,100.0,72.0,False,False,True
+SEC00113,Riverstone Government Bd 2033,SEC00113,Riverstone Government Bond 2033,96.67,100.0,True,True,False
+SEC00214,Apex Cap ETF 2038,SEC00214,Apex Capital ETF 2038,89.47,100.0,True,True,False
+SEC00210,Atlas ETF 2034,SEC00030,Atlas ETF 2034,100.0,77.0,False,True,True
+SEC00247,Northstar Government Bd 2035,SEC00247,Northstar Government Bond 2035,96.55,100.0,True,True,False
+SEC00234,Northstar Derivative 2034,SEC00234,Northstar Derivative 2034,100.0,100.0,True,True,False
+SEC00269,Zenith Equity 2033,SEC00269,Zenith Equity 2033,100.0,100.0,True,True,False
+SEC00285,Atlas Government Bd 2037,SEC00009,Atlas Government Bond 2037,96.0,74.12,False,True,True
+SEC00142,Blue Harbor Derivative 2038,SEC00082,Blue Harbor Derivative 2038,100.0,72.0,False,False,True

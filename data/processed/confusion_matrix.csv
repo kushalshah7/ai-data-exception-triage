@@ -1,0 +1,12 @@
+,Delayed Source Load,Duplicate Record,Invalid Currency,Missing Client Mapping,Missing Reference Data,Performance Return Outlier,Position Reconciliation Break,Price Outlier,Stale Price,Trade Match Break,Unknown / Needs SME Review
+Delayed Source Load,25,0,0,0,0,0,0,0,0,0,0
+Duplicate Record,0,34,0,0,0,0,0,0,0,0,0
+Invalid Currency,0,0,24,0,0,0,0,0,0,0,0
+Missing Client Mapping,0,0,0,29,0,0,0,0,0,0,0
+Missing Reference Data,0,0,0,0,27,0,0,0,0,0,12
+Performance Return Outlier,0,0,0,0,0,14,2,0,0,0,0
+Position Reconciliation Break,0,0,0,0,0,1,42,0,0,0,0
+Price Outlier,0,0,0,0,0,0,0,30,0,0,0
+Stale Price,0,0,0,0,0,0,0,0,38,0,0
+Trade Match Break,0,0,0,0,0,0,0,0,0,50,0
+Unknown / Needs SME Review,0,0,0,0,0,0,0,0,0,0,22
